@@ -3,7 +3,11 @@
 
 ## Sobre o projeto 💭
 O formulário de modo claro ou escuro foi criado para aperfeiçoar as minhas criações de formulários, funções e condições if/else no JS.</br>
-https://github.com/analudms/Form.git 
+https://github.com/analudms/Form.git
+
+# Como acessar o projeto? 🤔
+
+Basta clicar [AQUI](https://analudms.github.io/Form/) que você será direcionado!
 
 ## Apresentação 👀
 <p align="center">
